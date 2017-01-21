@@ -1,0 +1,12 @@
+<resources>
+    <declare-styleable name="ShapeLetter">
+        <attr name="letter" format="string" />
+        <attr name="letter_size" format="dimension" />
+        <attr name="letter_color" format="color" />
+        <attr name="shape_color" format="color" />
+        <attr name="shape">
+            <enum name="oval" value="1" />
+            <enum name="rect" value="2" />
+        </attr>-->
+    </declare-styleable>
+</resources>

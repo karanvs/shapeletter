@@ -28,8 +28,9 @@ dependencies {
         android:layout_width="56dp"
         android:layout_height="56dp"
         shpltr:letter="B"
+	shpltr:letter_size="20dp"
         shpltr:letter_color="@color/colorPrimaryDark"
-        shpltr:shape="rect"
+        shpltr:shape="rect" //you can use oval as alternative
         shpltr:shape_color="@color/colorAccent"
         />
 ```
